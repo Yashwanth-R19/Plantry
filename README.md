@@ -176,3 +176,10 @@ node testInference.js <firebase-user-uid> milk bread
 
 ---
 
+> Note: In the deployed webstite, the Looker Studio Visualisation in the Insights page is done from the Data used to Train and Test the ML Models for one particular household
+
+### Deployment: 
+* https://plantry-frontend.vercel.app (Frontend)
+* https://plantry-backend-6uzr.onrender.com (Backend)
+
+
